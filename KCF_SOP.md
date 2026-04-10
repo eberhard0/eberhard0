@@ -26,15 +26,15 @@
 
 ---
 
-## KCF Handover - Daftar Tugas
+## Scope Bantuan KCF
 
-- Siapkan quotation
-- Siapkan invoice
-- Buat honorarium pembayaran acara KCF
-- Buat memo pembayaran
-- Kirim quotation ke klien KCF
+> Sudah dikonfirmasi dengan **Mbak Devi** - sudah clear.
+> Berdasarkan info dari **Mbak IDR**.
 
-> Catatan: Klien KCF cukup banyak, harap diperhatikan pengelolaannya.
+Bantuan yang diberikan mencakup:
+- Membuat **RAB** (Rencana Anggaran Biaya) untuk kegiatan KCF
+- Membantu proses **pembayaran honorarium**
+- Membuat **surat-surat** yang diperlukan
 
 ---
 
